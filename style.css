@@ -72,7 +72,8 @@ body{
 .counter .line{
     width: 45px;
     height:2px;
-    background-color: #000000
+    background-color: #000000;
+}
 .right{
     position: absolute;
     right: 5%;
